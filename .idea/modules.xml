@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ServletContext/ServletContext.iml" filepath="$PROJECT_DIR$/ServletContext/ServletContext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentMg/StudentMg.iml" filepath="$PROJECT_DIR$/StudentMg/StudentMg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/The Gold Miner/The Gold Miner.iml" filepath="$PROJECT_DIR$/The Gold Miner/The Gold Miner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit8/Unit8.iml" filepath="$PROJECT_DIR$/Unit8/Unit8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/caiquan/caiquan.iml" filepath="$PROJECT_DIR$/caiquan/caiquan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter09/chapter09.iml" filepath="$PROJECT_DIR$/chapter09/chapter09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filter/filter.iml" filepath="$PROJECT_DIR$/filter/filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWebDemo/javaWebDemo.iml" filepath="$PROJECT_DIR$/javaWebDemo/javaWebDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsp/jsp.iml" filepath="$PROJECT_DIR$/jsp/jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jstl/jstl.iml" filepath="$PROJECT_DIR$/jstl/jstl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listener/listener.iml" filepath="$PROJECT_DIR$/listener/listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginProject/loginProject.iml" filepath="$PROJECT_DIR$/loginProject/loginProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet/servlet.iml" filepath="$PROJECT_DIR$/servlet/servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet01/servlet01.iml" filepath="$PROJECT_DIR$/servlet01/servlet01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet02Request/servlet02Request.iml" filepath="$PROJECT_DIR$/servlet02Request/servlet02Request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet04Cookie/servlet04Cookie.iml" filepath="$PROJECT_DIR$/servlet04Cookie/servlet04Cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet07/trunk/servlet07.iml" filepath="$PROJECT_DIR$/servlet07/trunk/servlet07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servletSesion/servletSesion.iml" filepath="$PROJECT_DIR$/servletSesion/servletSesion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc/spring-mvc.iml" filepath="$PROJECT_DIR$/spring-mvc/spring-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc1/spring-mvc1.iml" filepath="$PROJECT_DIR$/spring-mvc1/spring-mvc1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_ioc_anno/spring_ioc_anno.iml" filepath="$PROJECT_DIR$/spring_ioc_anno/spring_ioc_anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace1.iml" filepath="$PROJECT_DIR$/.idea/workspace1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wygl/wygl.iml" filepath="$PROJECT_DIR$/wygl/wygl.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/demo" />
+    <file type="web" url="file://$PROJECT_DIR$/demo01" />
+    <file type="web" url="file://$PROJECT_DIR$/filter" />
+    <file type="web" url="file://$PROJECT_DIR$/jsp" />
+    <file type="web" url="file://$PROJECT_DIR$/jsp-servlet-mysql" />
+    <file type="web" url="file://$PROJECT_DIR$/jstl" />
+    <file type="web" url="file://$PROJECT_DIR$/listener" />
+    <file type="web" url="file://$PROJECT_DIR$/loginProject" />
+    <file type="web" url="file://$PROJECT_DIR$/servlet" />
+    <file type="web" url="file://$PROJECT_DIR$/servlet01" />
+    <file type="web" url="file://$PROJECT_DIR$/servlet02Request" />
+    <file type="web" url="file://$PROJECT_DIR$/servlet04Cookie" />
+    <file type="web" url="file://$PROJECT_DIR$/servlet07" />
+    <file type="web" url="file://$PROJECT_DIR$/ServletContext" />
+    <file type="web" url="file://$PROJECT_DIR$/servletSesion" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-mvc" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-mvc1" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_ioc_anno" />
+    <file type="web" url="file://$PROJECT_DIR$/StudentMg" />
+    <file type="web" url="file://$PROJECT_DIR$/untitled" />
+    <file type="web" url="file://$PROJECT_DIR$/wygl" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demo01/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_ioc_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-mvc1/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet01/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet02Request/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet07/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet04Cookie/pom.xml" />
+        <option value="$PROJECT_DIR$/jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/jstl/pom.xml" />
+        <option value="$PROJECT_DIR$/loginProject/pom.xml" />
+        <option value="$PROJECT_DIR$/filter/pom.xml" />
+        <option value="$PROJECT_DIR$/listener/pom.xml" />
+        <option value="$PROJECT_DIR$/servletSesion/pom.xml" />
+        <option value="$PROJECT_DIR$/ServletContext/pom.xml" />
+        <option value="$PROJECT_DIR$/StudentMg/pom.xml" />
+        <option value="$PROJECT_DIR$/wygl/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/servlet07/trunk/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled1/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="svn://svn.svnbucket.com/13694293317/svnbucket" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/servlet07">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="svn://svn.svnbucket.com/13694293317/svnbucket/servlet07/branches" />
+                  <option value="svn://svn.svnbucket.com/13694293317/svnbucket/servlet07/tags" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="svn://svn.svnbucket.com/13694293317/svnbucket/servlet07/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

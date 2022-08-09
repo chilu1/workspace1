@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/ServletContext/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ServletContext/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StudentMg/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StudentMg/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/filter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jsp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jsp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jstl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jstl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/listener/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/listener/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loginProject/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loginProject/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet02Request/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet02Request/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet04Cookie/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet04Cookie/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet07/trunk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlet07/trunk/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servletSesion/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servletSesion/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-mvc1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-mvc1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/untitled/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wygl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wygl/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
